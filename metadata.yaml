@@ -1,0 +1,39 @@
+_repo: A-Student-in-Arms--Second-Series_14823
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Strachey, John St. Loe
+    aliases:
+    - Strachey, J. St. Loe
+    - St. Loe Strachey, John
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '2087'
+    url: http://www.gutenberg.org/2009/agents/2087
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hankey, Donald
+    alias: Hankey, Donald William Alers
+    birthdate: 1884
+    deathdate: 1916
+    gutenberg_agent_id: '5704'
+    url: http://www.gutenberg.org/2009/agents/5704
+    wikipedia: http://en.wikipedia.org/wiki/Donald_Hankey
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+title: 'A Student in Arms: Second Series'
+url: http://www.gutenberg.org/ebooks/14823
